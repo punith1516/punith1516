@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Punith A</h1>
-<h3 align="center">I am a final-year Computer Science Engineering student at PES University, RR campus. My current focus lies in mastering backend technologies, the MERN stack, and Machine Learning.</h3>
+<h3 align="center">I am a final-year Computer Science Engineering student at PES University, EC campus. My current focus lies in mastering backend technologies, the MERN stack, and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punith1516&label=Profile%20views&color=0e75b6&style=flat" alt="punith1516" /> </p>
 
